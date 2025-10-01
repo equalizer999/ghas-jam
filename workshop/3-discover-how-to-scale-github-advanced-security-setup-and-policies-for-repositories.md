@@ -1,5 +1,7 @@
 # Discover how to scale GitHub Advanced Security setup and policies for repositories
 
+> **Important:** This exercise requires access to a test organization with administrative privileges. The features demonstrated here are only available at the organization level and cannot be completed with personal repositories alone.
+
 ## Task 1: Create and set custom repository properties
 
 Not all of your repositories may require the same set of code security configurations. Let's imagine you have a group of repositories that contain the code for business-critical production web applications that are exposed to the public Internet. You may want to apply a different configuration to them. Let's first label them with custom Repository Properties.
